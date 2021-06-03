@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The severall votes and resolutions agreed upon by both Houses of Parliament Concerning the securing of the kingdome of England and dominion of Wales. Die Martij 15. 1641. Printed by order of both Houses of Parliament. Also the bill of foure subsidies for the reliefe of the Kings army, was disputed on by a grand committee, and upon the debate, made choice of Sir Symon Dewes. Who speake [sic] as followeth. March 9th. 1641.</title>
+            <title>Votes. 1642-03-15</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83489</idno><idno type="EEBO-CITATION">99897362</idno>
+  <idno type="VID">132717</idno>
+  <idno type="EEBO-PROQUEST">2248512392</idno>
+  
+            <idno type="STC">Wing E2301B</idno>
+            <idno type="STC">ESTC R205522</idno>
+            <idno type="PROQUEST">99897362</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99897362e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83489)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 132717)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2498:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The severall votes and resolutions agreed upon by both Houses of Parliament Concerning the securing of the kingdome of England and dominion of Wales. Die Martij 15. 1641. Printed by order of both Houses of Parliament. Also the bill of foure subsidies for the reliefe of the Kings army, was disputed on by a grand committee, and upon the debate, made choice of Sir Symon Dewes. Who speake [sic] as followeth. March 9th. 1641.</title>
+                  <title>Votes. 1642-03-15</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for John Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Years are given according to Lady Day dating.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:132717:1"/>
+            <p>The severall Votes and Resolutions agreed upon by both Hou<g ref="char:EOLhyphen"/>ses of PARLIAMENT.</p>
+            <p>Concerning the securing of the Kingdome of <hi>En<g ref="char:EOLhyphen"/>gland</hi> and Dominion of <hi>Wales.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Martij. 15. 1641.</date>
+                           </dateline>
+                        </opener>
+                        <p>Printed by Order of both houses of Parliament.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>ALSO THE BILL Of foure Subsidies for the reliefe of the Kings Army, was disputed on by a Grand Committee, And upon the debate, made choice of Sir Symon Dewes.</p>
+            <p>Who speake as followeth.</p>
+            <p>
+               <hi>March</hi> 9th. 1641.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>John Thomas,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_resolutions">
+            <pb facs="tcp:132717:2"/>
+            <head>Severall Votes Resolved upon by both Houses of <hi>Parliament.</hi>
+            </head>
+            <div type="part">
+               <p>
+                  <hi>Resolved upon the Quest, by the Lords in Parl. <hi>nemine contradicente.</hi>
+                  </hi>
+                  <lb/> THat the Ordinance of the Lords and Commons in Parliament, for the safety and defence of the Kingdome of <hi>England,</hi> and Do<g ref="char:EOLhyphen"/>minion of <hi>Wales,</hi> is not any way against the Oath of Allegiance.</p>
+               <p>
+                  <hi>Resolved upon the Question.</hi>
+                  <lb/> That the severall Commissions, granted vnder the Great Seale, to the Lievtenants of the severall Counties, are illegall and voyd.</p>
+               <p>
+                  <hi>Resolved upon the Question.</hi>
+                  <lb/> That whosoever shall execute any Power over the <hi>Militia</hi> of this Kingdome, and Dominion of Wales, by colour of any Commission of Lievtenancy, without consent of both Housrs of Parliament, shall be accounted a disturber of the peace of the Kingdome.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <date>Die Martis, 15. Martij. 1641.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <hi>Resolved upon the Question by the Lords and Commons in Parliament.</hi>
+                  <lb/> THat the Kingdome hath been of late, and still is in so evident and emminent danger, both from enemies abroad, and a Popish and discontented party at home; That there is an urgent and inevita<g ref="char:EOLhyphen"/>ble necessity of putting his Majesties Subjects into a posture of de<g ref="char:EOLhyphen"/>fence, for the safeguard both of his Majesty, and his people.</p>
+               <p>That the Lords and Commons fully apprehending this danger, &amp; being sensible of their owne duty; to provide a sutable prevention, Have, in severall Petitions, addressed themselves to his Majesty, for the Ordering and disposing of the <hi>Militia</hi> of the Kingdome▪ in such a way, as was agteed upon by the wisedom of both Houses, to be most effectuall and proper: for the present Exigents of the Kingdome; yet could not obtaine it, but his Majesty did severall times refuse to give his Royall assent thereunto.</p>
+               <p>Ordered, That the House of Peers agrees with the House of Com<g ref="char:EOLhyphen"/>mons in this Proposition.</p>
+               <p>
+                  <hi>Resolved upon the Question by the Lords and Commons in Parliament,</hi>
+                  <lb/> That in this case of extream danger, and of his Majesties refusall, the Ordinance agreed on by both Houses, for the <hi>Militia▪</hi> doth ob<g ref="char:EOLhyphen"/>lige the People, and ought to be obeyed, by the Fundamentall Lawes of this Kingdome.</p>
+               <p>
+                  <hi>Resolved upon the Question.</hi>
+                  <lb/> That these shall be the Heads of a Declaration.</p>
+               <p>
+                  <hi>Resolved upon the Question.</hi>
+                  <lb/> That such Persons as shall be nominated Deputy-Lievtenants,
+<pb facs="tcp:132717:2"/> and approved of by both Houses, shall receive the Commands of both Houses, to take upon them to Execute their Offices.</p>
+               <p>Ordered by the Lords and Commons in Parliament, That these severall Votes be published in print.</p>
+            </div>
+         </div>
+         <div type="concerning_the_disputation_of_a_subsidy_bill">
+            <head>The Bill of foure Subsedies for the reliefe of the Kings Army, was disputed on by a Grand Commit<g ref="char:EOLhyphen"/>tee, <hi>March</hi> 9. 1641.</head>
+            <p>
+               <seg rend="decorInit">T</seg>His Bill for the reliefe of the Kings Ar<g ref="char:EOLhyphen"/>my having bin drawn by a Committee, <hi>Cambridge</hi> was placed before <hi>Oxford,</hi> whereupon it was committed to be dis<g ref="char:EOLhyphen"/>puted and debated in a Grand Committee. And when it came to that clause where <hi>Cambridge</hi> was placed before <hi>Oxford,</hi> many of the House that had bin <hi>Oxford</hi> men cryed to have <hi>Oxford</hi> placed first, for which <hi>Cambridge</hi> cryed that the Bill should stand as it was, And thereupon the <hi>Oxford</hi> men called to have it put to the question, And divers <hi>Cambridge</hi> men called upon Sir <hi>Symon Dewes,</hi> be<g ref="char:EOLhyphen"/>ing then present at the Committee, which drew him to speake as followeth;</p>
+            <p>I humbly desire to perswade if it may be the dcclining of the present question and the further dispute of the businesse we have had a long debate about the placing the said <hi>Cambridge</hi> before <hi>Ox<g ref="char:EOLhyphen"/>ford,</hi> in the said Bill I account no honour to <hi>Cam<g ref="char:EOLhyphen"/>bridge,</hi>
+               <pb facs="tcp:132717:3"/> that it got the precedence by voices at the former <hi>Committee,</hi> nor will it be any glory to <hi>Ox<g ref="char:EOLhyphen"/>ford</hi> to gaine it by voices here, where we all know the multitude of Borrough Towns of the Western parts of <hi>England,</hi> which doe send so many wor<g ref="char:EOLhyphen"/>thy Members hither, as if we measure things by number, and not by weight, <hi>Cambridge</hi> is sure to loose it, J would propound a more noble way and meanes for the present controversie now in que<g ref="char:EOLhyphen"/>stion, In which if the University of <hi>Oxford,</hi> which J doe highly respect and honour shall obtain the prize, it will be farre more glory to it, then to carry it by multitude of Voices, Let us therefore dispute it by reason, and not make an Idoll of ei<g ref="char:EOLhyphen"/>ther place, And if J shall be so convinced, I shall readily change my Vote, wishing we may find the same Ingenuity in the <hi>Oxford</hi> men as with <hi>Cam<g ref="char:EOLhyphen"/>bridge</hi> men.</p>
+            <p>There are two principall Respects, in which these famous Universities may clayme precedence each of other.</p>
+            <list>
+               <item>1. In respect of their being as they were places of note in the Elder Ages.</item>
+               <item>2. As they were ancient Nurseries.</item>
+            </list>
+            <p>If J doe not therefore prove that <hi>Cambridge</hi> was a renowned City at least 200. yeares before there
+<pb facs="tcp:132717:3"/> was a House of <hi>Oxford</hi> standing, And whilest brute Beasts fed, or Corne sowen in that place where the same City is now seated, and that <hi>Cam<g ref="char:EOLhyphen"/>bridge</hi> was a Nursery of Learning before <hi>Oxford</hi> was knowne to have a Grammer Schoole in it, J will yeeld up the Bucklers.</p>
+            <p>If I should loose time to reckon up the vaine Allegations produced for the Antiquity of <hi>Ox<g ref="char:EOLhyphen"/>ford</hi> by <hi>Twine,</hi> and of <hi>Cambridge</hi> by <hi>Cain,</hi> J should but repeat the failing of the Ancient, for J account the most of that they have published in Print to be no better, But I find by authority without ex<g ref="char:EOLhyphen"/>ception, that in the ancient Catalogue of the <hi>Brit<g ref="char:EOLhyphen"/>taines, Cambridge</hi> is the 9th. in number, where <hi>Lon<g ref="char:EOLhyphen"/>don</hi> it selfe is but the 11th. And who would have thought that <hi>Oxford</hi> would have contended for precedency with <hi>Cambridge,</hi> which <hi>London</hi> gave it 100. yeares since. This I find in <hi>Albania's</hi> brittish story, who dyed about the yeare 520: being the ancientest Domestique Monument, we have in the <hi>Saxon Annomia's</hi> Story written in Latine, tou<g ref="char:EOLhyphen"/>ching the <hi>Brittaines</hi> and <hi>Saxons, Page</hi> 39. Who saith of himselfe, that he lived in the dayes of <hi>Penda</hi> King of the <hi>Persians,</hi> in the 12. yeare of his Raign. And that he knew him well, which fals out to be neer upon the yeare, 620. And now I
+<pb facs="tcp:132717:4"/> find the same Catalogue of the said Brittish Cities▪ with some little variation to be set downe in <hi>Ne<g ref="char:EOLhyphen"/>hemias</hi> Latine story of <hi>Brittaine, Page</hi> 38. And he wrote the same as he sayes of himselfe 883. They all call it <hi>Cair-grant,</hi> the word <hi>Cair</hi> is the old <hi>Cel<g ref="char:EOLhyphen"/>tique</hi> tongue, signifying City.</p>
+            <p>These three Stories are exquisite and rare Mo<g ref="char:EOLhyphen"/>numents remaining yet onely in ancient Mani<g ref="char:EOLhyphen"/>scripts amongst us, not knowne to many but the authority of them is irrefragable and without ex<g ref="char:EOLhyphen"/>ception.</p>
+            <p>This <hi>Cair-grant</hi> is not onely expounded by <hi>Al<g ref="char:EOLhyphen"/>fred</hi> of <hi>Beverley</hi> to signifie <hi>Cambridge,</hi> but also by <hi>William de Ramsey,</hi> Abbot of <hi>Croyland,</hi> in his Ma<g ref="char:EOLhyphen"/>niscript Story of the life of <hi>Guchlacus,</hi> ignorantly in those Elder dayes reputed a Saint, the said <hi>Wil<g ref="char:EOLhyphen"/>liam</hi> goes further, and saies it was called a <hi>Gran<g ref="char:EOLhyphen"/>ta Flumine,</hi> this place still remained a City of Fame and repute a long time under the Raigne of the English <hi>Saxons,</hi> and is called in many of the old Manuscript Saxon <hi>Annalis antiquus,</hi> And notwith<g ref="char:EOLhyphen"/>standing the great devastations it suffered with o<g ref="char:EOLhyphen"/>ther places by reason of the Danish incursions, yet in the first volume of the Booke of <hi>Doomesday,</hi> for now I come to City Records, it appeares to have been a place of considerable moment, having in it
+<pb facs="tcp:132717:4"/>
+               <hi>decem custodias,</hi> and a Castle of great strength and extent, and so I have done with <hi>Cambridge</hi> as a Re<g ref="char:EOLhyphen"/>nowned place.</p>
+            <p>And now J come to speake of it, as it hath bin a Nursery of learning, nor will I begin higher with it then the time of the learned <hi>Saxon</hi> Monarch King <hi>Alfred,</hi> because J suppose that no man will question or gainesay, but that there are suffi<g ref="char:EOLhyphen"/>cient testimonies of certaine persons that did to<g ref="char:EOLhyphen"/>gether in <hi>Cambridge</hi> study the Arts, and Sciences, much about his time, and it grew to be so fa<g ref="char:EOLhyphen"/>mous for Learning about the time of <hi>William</hi> the first, the <hi>Normaine,</hi> that he sent his younger Son <hi>Henry</hi> thither to be there instructed, who him<g ref="char:EOLhyphen"/>selfe being afterwards King of <hi>England,</hi> by the name of <hi>Henry</hi> the first, who was also sirnamed <hi>Beuclarke</hi> in respect of his great and in-vulgar knowledge, if I should undertake to alleadge and vouch the Records, and other Monuments of good Authority which assert and Prove the en<g ref="char:EOLhyphen"/>crease and flourishing estate in the succeeding ages, I should spend more time then our weigh<g ref="char:EOLhyphen"/>ty occasions at this time will permit.</p>
+            <p>It shall therefore suffice to have added, that the most ancient and first endowed Colledge of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> was <hi>Valence</hi> called in <hi>Cambridge,</hi> which long
+<pb facs="tcp:132717:5"/> after the foundation thereof as appeares by one of our Parliament Roles remaining upon record in the Tower of <hi>London,</hi> received the name of <hi>Pembrooke-hall,</hi> it is in <hi>Rot. Parl: Anno</hi> 38. <hi>Hen.</hi> 6. <hi>Numb.</hi> 31. It appearing therefore so evidently by all that I have said, that <hi>Cambridge</hi> is in all re<g ref="char:EOLhyphen"/>spects the elder Sister, which I speake not to de<g ref="char:EOLhyphen"/>rogate from <hi>Oxford.</hi>
+            </p>
+            <p>My humble advice therefore is that wee lay a<g ref="char:EOLhyphen"/>side the present question, aswell to avoid division amongst our selves, as to entombe all furthur e<g ref="char:EOLhyphen"/>mulation betweene the two Sisters, and that wee suffer the present Bill to passe as it is now pen<g ref="char:EOLhyphen"/>ned, and the rather because I thinke <hi>Oxford</hi> had the precedence in the last Bill of this nature, that passed this House.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
